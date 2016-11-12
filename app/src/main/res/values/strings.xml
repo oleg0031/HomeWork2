@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="input_your_text_here">Input your text here...</string>
+</resources>
